@@ -28,7 +28,7 @@
 *.iws
 
 ## Plugin-specific files:
-**/*.zip
+#**/*.zip
 
 # IntelliJ
 /out/
